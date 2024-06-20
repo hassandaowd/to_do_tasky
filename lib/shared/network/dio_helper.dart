@@ -147,7 +147,7 @@ class DioHelper {
       'Content-Type': 'multipart/form-data',
       'Accept': '*/*',
 
-    };
+    }; 
     // FormData formData = FormData();
     // formData.files.add(MapEntry('image', await MultipartFile.fromFile(imagesPaths)));
     try {
