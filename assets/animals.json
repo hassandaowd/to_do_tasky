@@ -1,0 +1,184 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name_en": "Lion",
+      "name_ar": "أسد",
+      "sound_name_en": "Roar",
+      "sound_name_ar": "زئير",
+      "image_url": "https://your-image-link/lion.png",
+      "sound_url": "https://your-sound-link/lion.mp3"
+    },
+    {
+      "id": 2,
+      "name_en": "Cat",
+      "name_ar": "قطة",
+      "sound_name_en": "Meow",
+      "sound_name_ar": "مواء",
+      "image_url": "https://your-image-link/cat.png",
+      "sound_url": "https://your-sound-link/cat.mp3"
+    },
+    {
+      "id": 3,
+      "name_en": "Dog",
+      "name_ar": "كلب",
+      "sound_name_en": "Bark",
+      "sound_name_ar": "نباح",
+      "image_url": "https://your-image-link/dog.png",
+      "sound_url": "https://your-sound-link/dog.mp3"
+    },
+    {
+      "id": 4,
+      "name_en": "Cow",
+      "name_ar": "بقرة",
+      "sound_name_en": "Moo",
+      "sound_name_ar": "خوار",
+      "image_url": "https://your-image-link/cow.png",
+      "sound_url": "https://your-sound-link/cow.mp3"
+    },
+    {
+      "id": 5,
+      "name_en": "Sheep",
+      "name_ar": "خروف",
+      "sound_name_en": "Baa",
+      "sound_name_ar": "ثغاء",
+      "image_url": "https://your-image-link/sheep.png",
+      "sound_url": "https://your-sound-link/sheep.mp3"
+    },
+    {
+      "id": 6,
+      "name_en": "Horse",
+      "name_ar": "حصان",
+      "sound_name_en": "Neigh",
+      "sound_name_ar": "صهيل",
+      "image_url": "https://your-image-link/horse.png",
+      "sound_url": "https://your-sound-link/horse.mp3"
+    },
+    {
+      "id": 7,
+      "name_en": "Elephant",
+      "name_ar": "فيل",
+      "sound_name_en": "Trumpet",
+      "sound_name_ar": "صرير الفيل",
+      "image_url": "https://your-image-link/elephant.png",
+      "sound_url": "https://your-sound-link/elephant.mp3"
+    },
+    {
+      "id": 8,
+      "name_en": "Monkey",
+      "name_ar": "قرد",
+      "sound_name_en": "Screech",
+      "sound_name_ar": "صراخ",
+      "image_url": "https://your-image-link/monkey.png",
+      "sound_url": "https://your-sound-link/monkey.mp3"
+    },
+    {
+      "id": 9,
+      "name_en": "Duck",
+      "name_ar": "بطة",
+      "sound_name_en": "Quack",
+      "sound_name_ar": "بطبطة",
+      "image_url": "https://your-image-link/duck.png",
+      "sound_url": "https://your-sound-link/duck.mp3"
+    },
+    {
+      "id": 10,
+      "name_en": "Chicken",
+      "name_ar": "دجاجة",
+      "sound_name_en": "Cluck",
+      "sound_name_ar": "نقنقة",
+      "image_url": "https://your-image-link/chicken.png",
+      "sound_url": "https://your-sound-link/chicken.mp3"
+    },
+    {
+      "id": 11,
+      "name_en": "Frog",
+      "name_ar": "ضفدع",
+      "sound_name_en": "Croak",
+      "sound_name_ar": "نقيق",
+      "image_url": "https://your-image-link/frog.png",
+      "sound_url": "https://your-sound-link/frog.mp3"
+    },
+    {
+      "id": 12,
+      "name_en": "Bee",
+      "name_ar": "نحلة",
+      "sound_name_en": "Buzz",
+      "sound_name_ar": "أزيز",
+      "image_url": "https://your-image-link/bee.png",
+      "sound_url": "https://your-sound-link/bee.mp3"
+    },
+    {
+      "id": 13,
+      "name_en": "Bird",
+      "name_ar": "عصفور",
+      "sound_name_en": "Tweet",
+      "sound_name_ar": "زقزقة",
+      "image_url": "https://your-image-link/bird.png",
+      "sound_url": "https://your-sound-link/bird.mp3"
+    },
+    {
+      "id": 14,
+      "name_en": "Wolf",
+      "name_ar": "ذئب",
+      "sound_name_en": "Howl",
+      "sound_name_ar": "عواء",
+      "image_url": "https://your-image-link/wolf.png",
+      "sound_url": "https://your-sound-link/wolf.mp3"
+    },
+    {
+      "id": 15,
+      "name_en": "Bear",
+      "name_ar": "دب",
+      "sound_name_en": "Growl",
+      "sound_name_ar": "زمجرة",
+      "image_url": "https://your-image-link/bear.png",
+      "sound_url": "https://your-sound-link/bear.mp3"
+    },
+    {
+      "id": 16,
+      "name_en": "Goat",
+      "name_ar": "ماعز",
+      "sound_name_en": "Bleat",
+      "sound_name_ar": "ثغاء",
+      "image_url": "https://your-image-link/goat.png",
+      "sound_url": "https://your-sound-link/goat.mp3"
+    },
+    {
+      "id": 17,
+      "name_en": "Snake",
+      "name_ar": "ثعبان",
+      "sound_name_en": "Hiss",
+      "sound_name_ar": "فحيح",
+      "image_url": "https://your-image-link/snake.png",
+      "sound_url": "https://your-sound-link/snake.mp3"
+    },
+    {
+      "id": 18,
+      "name_en": "Rooster",
+      "name_ar": "ديك",
+      "sound_name_en": "Crow",
+      "sound_name_ar": "صياح",
+      "image_url": "https://your-image-link/rooster.png",
+      "sound_url": "https://your-sound-link/rooster.mp3"
+    },
+    {
+      "id": 19,
+      "name_en": "Owl",
+      "name_ar": "بومة",
+      "sound_name_en": "Hoot",
+      "sound_name_ar": "هديل",
+      "image_url": "https://your-image-link/owl.png",
+      "sound_url": "https://your-sound-link/owl.mp3"
+    },
+    {
+      "id": 20,
+      "name_en": "Donkey",
+      "name_ar": "حمار",
+      "sound_name_en": "Bray",
+      "sound_name_ar": "نهيق",
+      "image_url": "https://your-image-link/donkey.png",
+      "sound_url": "https://your-sound-link/donkey.mp3"
+    }
+  ]
+}
