@@ -88,8 +88,8 @@
       "name_ar": "دجاجة",
       "sound_name_en": "Cluck",
       "sound_name_ar": "نقنقة",
-      "image_url": "https://your-image-link/chicken.png",
-      "sound_url": "https://your-sound-link/chicken.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765528999/chicken_qtjmzq.avif",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529087/chicken_jtd09v.mp3"
     },
     {
       "id": 11,
@@ -97,8 +97,8 @@
       "name_ar": "ضفدع",
       "sound_name_en": "Croak",
       "sound_name_ar": "نقيق",
-      "image_url": "https://your-image-link/frog.png",
-      "sound_url": "https://your-sound-link/frog.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765528998/frog_o1bx3i.jpg",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529098/frog_h7kofr.mp3"
     },
     {
       "id": 12,
@@ -106,8 +106,8 @@
       "name_ar": "نحلة",
       "sound_name_en": "Buzz",
       "sound_name_ar": "أزيز",
-      "image_url": "https://your-image-link/bee.png",
-      "sound_url": "https://your-sound-link/bee.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529000/bee_pmntmc.jpg",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529071/bee_cittw0.mp3"
     },
     {
       "id": 13,
@@ -115,8 +115,8 @@
       "name_ar": "عصفور",
       "sound_name_en": "Tweet",
       "sound_name_ar": "زقزقة",
-      "image_url": "https://your-image-link/bird.png",
-      "sound_url": "https://your-sound-link/bird.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529098/bird_jogrcc.png",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529063/bird_pexl5q.mp3"
     },
     {
       "id": 14,
@@ -124,8 +124,8 @@
       "name_ar": "ذئب",
       "sound_name_en": "Howl",
       "sound_name_ar": "عواء",
-      "image_url": "https://your-image-link/wolf.png",
-      "sound_url": "https://your-sound-link/wolf.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529054/wolf_plvx9u.webp",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529088/wolf_jdrtuy.mp3"
     },
     {
       "id": 15,
@@ -133,8 +133,8 @@
       "name_ar": "دب",
       "sound_name_en": "Growl",
       "sound_name_ar": "زمجرة",
-      "image_url": "https://your-image-link/bear.png",
-      "sound_url": "https://your-sound-link/bear.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529102/bear_p7ypgu.jpg",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529009/bear_veqkiw.mp3"
     },
     {
       "id": 16,
@@ -142,8 +142,8 @@
       "name_ar": "ماعز",
       "sound_name_en": "Bleat",
       "sound_name_ar": "ثغاء",
-      "image_url": "https://your-image-link/goat.png",
-      "sound_url": "https://your-sound-link/goat.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529054/goat_vxj5ni.jpg",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529066/goat_uwvokn.mp3"
     },
     {
       "id": 17,
@@ -151,8 +151,8 @@
       "name_ar": "ثعبان",
       "sound_name_en": "Hiss",
       "sound_name_ar": "فحيح",
-      "image_url": "https://your-image-link/snake.png",
-      "sound_url": "https://your-sound-link/snake.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529007/snake_bmrzgk.png",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529052/snake_pnbwsh.mp3"
     },
     {
       "id": 18,
@@ -160,8 +160,8 @@
       "name_ar": "ديك",
       "sound_name_en": "Crow",
       "sound_name_ar": "صياح",
-      "image_url": "https://your-image-link/rooster.png",
-      "sound_url": "https://your-sound-link/rooster.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529000/rooster_xdg3wb.jpg",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529043/rooster_ilrlwx.mp3"
     },
     {
       "id": 19,
@@ -169,8 +169,8 @@
       "name_ar": "بومة",
       "sound_name_en": "Hoot",
       "sound_name_ar": "هديل",
-      "image_url": "https://your-image-link/owl.png",
-      "sound_url": "https://your-sound-link/owl.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529081/owl_et2xzm.jpg",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529065/owl_foilyx.mp3"
     },
     {
       "id": 20,
@@ -178,8 +178,8 @@
       "name_ar": "بطة",
       "sound_name_en": "Quack",
       "sound_name_ar": "بطبطة",
-      "image_url": "https://your-image-link/duck.png",
-      "sound_url": "https://your-sound-link/duck.mp3"
+      "image_url": "https://res.cloudinary.com/doxnxnxwl/image/upload/v1765529019/duck_snvrsm.jpg",
+      "sound_url": "https://res.cloudinary.com/doxnxnxwl/video/upload/v1765529088/duck_sqajvb.mp3"
     }
   ]
 }
